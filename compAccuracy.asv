@@ -1,0 +1,5 @@
+function acc = compAccuracy(class_val, testLabel)
+
+samples = size(tes
+end
+
